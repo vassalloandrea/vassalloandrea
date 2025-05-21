@@ -1,32 +1,69 @@
-# Hi there, I'm Andrea Vassallo 👋
+# Andrea Vassallo
 
-I'm a freelance full-stack developer and consultant based in Latina, Italy 🇮🇹, with 8 years of experience in the field. My passion lies in creating GraphQL/REST APIs 🌐, building React/Vue SPA 💻, and managing e-commerce websites using Solidus on Rails 🛒. I was recently promoted to an associate engineering manager, where I get to help lead a team of talented developers to build amazing products. I love exploring new technologies, and I'm always up for a good challenge 🚀.
+**Fullstack Engineer (Aspiring Engineering Manager)**
+Ruby on Rails, NestJS (backend) | Next.js, SvelteKit (frontend)
+Over 8 years of e-commerce experience with Solidus & Shopify
 
-When I'm not coding, I enjoy spending time in nature, hiking and trekking through the beautiful Italian countryside 🌲. It's a great way to recharge my batteries and find balance in life. I also have two adorable cats, Yumi and Poppy 🐱, who always manage to put a smile on my face 😸.
+<img src="https://github.com/user-attachments/assets/463831ea-d2fa-4da8-9f0e-3d77ccd46138" alt="Logo" width="200"/>
 
-But my love for technology doesn't stop with my work. I'm also an active member of the open-source community ❤️, and I believe in giving back to the community that has given me so much. I'm committed to sharing my knowledge and collaborating with others to make the tech industry a more inclusive and innovative place 🤝.
+---
 
-If you're interested in working with me or learning more about my skills and experience, please don't hesitate to get in touch. I'd love to chat and see how we can collaborate to create something great 💻. Thank you for taking the time to read about me! 🙏
+## 👋 About Me
 
-## My Skills
+Hi, I’m Andrea Vassallo, a freelance Fullstack Engineer and consultant based in Latina 🇮🇹, with 8 years of experience in e-commerce development.
 
-- GraphQL/REST APIs
-- React/Vue SPA
-- Solidus on Rails
-- NodeJS
-- NextJS/Hydrogen
+I specialize in building scalable applications and APIs (GraphQL/REST), with deep expertise in:
+
+- Ruby on Rails
+- Next.js
+- NestJS
+- SvelteKit
+- Solidus
 - Shopify
+- React
 
-## My Interests
+I'm passionate about delivering high-quality, maintainable solutions and always expanding my skill set with modern backend and frontend technologies.
 
-- Hiking and trekking in nature 🥾
-- Cats
-- Open-source community
-- Experimenting with new technologies
+---
 
-## Contact Me
+## 🌟 Values & Growth
 
-- Email: andrea.vassallo.94@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anvassallo/
-- Website: https://www.andreavassallo.it/
-- Medium: https://medium.com/@andreavassallolt
+Beyond coding, I value:
+
+- Mentorship and knowledge sharing
+- Open-source contribution
+- Growing as an Engineering Manager
+
+I'm currently focused on leadership through empathy, clarity, and impact.
+
+---
+
+## 🛠️ Top Skills
+
+- Ruby on Rails
+- NestJS
+- Svelte
+- Next.js
+- React
+- Solidus
+- Shopify
+- E-Commerce Consulting
+
+---
+
+## 🏕️ Outside of Work
+
+When I'm not coding, I enjoy:
+
+- Hiking in nature 🌲
+- Spending time with my two cats, Yumi and Poppy 🐱
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to reach out if you’d like to collaborate or connect!
+
+📫 [LinkedIn](https://www.linkedin.com/in/andreavassallo) • [GitHub](https://github.com/your-username) • [Email](mailto:your.email@example.com)
+
+🌐 [Website](https://www.andreavassallo.it/) • [Medium](https://medium.com/@andreavassallolt)
